@@ -1,1 +1,3 @@
-/oop_part1.iml
+*.iml
+/.idea/
+/out/
